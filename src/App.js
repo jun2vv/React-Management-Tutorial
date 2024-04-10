@@ -9,7 +9,7 @@ const customers = [{
   'name' : '최준',
   'birthday' : '990920',
   'gender' : '남자',
-  'job' : '연구원'
+  'job' : '테스트'
 },
 {
   'id' : 2,
